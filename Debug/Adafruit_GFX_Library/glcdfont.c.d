@@ -1,0 +1,2 @@
+D:\TEMP\VMBuilds\sketch_mar13a\uno\Debug\Adafruit_GFX_Library\glcdfont.c.o: \
+ c:\Users\xxc\Documents\Arduino\libraries\Adafruit_GFX_Library\glcdfont.c
